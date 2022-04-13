@@ -1,0 +1,6 @@
+pytest
+termcolor
+allure-python-commons
+uuid
+requests
+selenium
