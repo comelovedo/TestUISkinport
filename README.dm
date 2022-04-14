@@ -1,7 +1,7 @@
 Introduction:
 This repository contains usage PageObject pattern with Selenium and Python (PyTest + Selenium).
-Practical execution of autotests for UI web application www.skinport.com - online Market for selling and purchase
-game items. Market has a lot of items, search and sort functions.
+Practical execution of autotests for UI web application www.skinport.com - online Market for selling and 
+purchase game items. Market has a lot of items, search and sort functions.
 
 Files:
 conftest.py contains all the required code to catch failed test cases and
